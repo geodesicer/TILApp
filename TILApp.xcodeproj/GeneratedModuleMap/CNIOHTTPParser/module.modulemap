@@ -1,4 +1,4 @@
 module CNIOHTTPParser {
-    umbrella "/Users/ulf/vapor/TILApp/.build/checkouts/swift-nio.git--814053015497852073/Sources/CNIOHTTPParser/include"
+    umbrella "/Users/ulf/vapor/TILApp/.build/checkouts/swift-nio.git-8241612368734696577/Sources/CNIOHTTPParser/include"
     export *
 }
