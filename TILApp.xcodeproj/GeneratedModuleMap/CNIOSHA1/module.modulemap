@@ -1,0 +1,4 @@
+module CNIOSHA1 {
+    umbrella "/Users/ulf/vapor/TILApp/.build/checkouts/swift-nio.git--814053015497852073/Sources/CNIOSHA1/include"
+    export *
+}
